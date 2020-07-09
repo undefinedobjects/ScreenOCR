@@ -1,0 +1,14 @@
+C:\Users\musta\source\repos\ScreenOCR\ScreenOCR\bin\Debug\ScreenOCR.exe.config
+C:\Users\musta\source\repos\ScreenOCR\ScreenOCR\bin\Debug\ScreenOCR.exe
+C:\Users\musta\source\repos\ScreenOCR\ScreenOCR\bin\Debug\ScreenOCR.pdb
+C:\Users\musta\source\repos\ScreenOCR\ScreenOCR\bin\Debug\IronOcr.dll
+C:\Users\musta\source\repos\ScreenOCR\ScreenOCR\bin\Debug\IronOcr.xml
+C:\Users\musta\source\repos\ScreenOCR\ScreenOCR\obj\Debug\ScreenOCR.csprojAssemblyReference.cache
+C:\Users\musta\source\repos\ScreenOCR\ScreenOCR\obj\Debug\ScreenOCR.frm_screenOcr.resources
+C:\Users\musta\source\repos\ScreenOCR\ScreenOCR\obj\Debug\ScreenOCR.frm_takeScreen.resources
+C:\Users\musta\source\repos\ScreenOCR\ScreenOCR\obj\Debug\ScreenOCR.Properties.Resources.resources
+C:\Users\musta\source\repos\ScreenOCR\ScreenOCR\obj\Debug\ScreenOCR.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\ScreenOCR\ScreenOCR\obj\Debug\ScreenOCR.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\ScreenOCR\ScreenOCR\obj\Debug\ScreenOCR.csproj.CopyComplete
+C:\Users\musta\source\repos\ScreenOCR\ScreenOCR\obj\Debug\ScreenOCR.exe
+C:\Users\musta\source\repos\ScreenOCR\ScreenOCR\obj\Debug\ScreenOCR.pdb
